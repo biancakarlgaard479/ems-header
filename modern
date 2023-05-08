@@ -1,0 +1,90 @@
+<header class="offer_section offer3">
+			<div class="title_block">
+			<h1 class="main_title">EMS Foot Massager</h1>
+				<p class="subtitle">Електричний масажер для ніг!</p>
+			</div>
+			<!--<div class="timer_block clearfix">
+				<p>Ця пропозиція закінчиться через:</p>
+				<div class="timer clearfix">
+					<div class="timer_item">
+						<div class="text">дней</div>
+						<div class="count">00</div>
+					</div>
+					<div class="timer_item">
+							<div class="text">годин</div>
+						<div class="count hours"></div>
+					</div>
+					<div class="timer_item">
+						<div class="text">хвилин</div>
+						<div class="count minutes"></div>
+					</div>
+					<div class="timer_item">
+						<div class="text">секунд</div>
+						<div class="count seconds"></div>
+					</div>
+				</div>
+			</div>-->
+			<div class="image_block">
+				<img class="offer_image" src="images/000.jpg" alt="">
+			</div>
+			<div class="benefits_list clearfix">
+				<div class="benefit_item">100% гарантія якості</div>
+				<div class="benefit_item">Обмежена пропозиція</div>
+				<div class="benefit_item">Оплата при отриманні</div>
+			</div>
+			<div class="price_block clearfix">
+				<div class="price_item old">
+				Стара ціна:
+					<div class="value">748грн</div>
+				</div>
+				<div class="price_item new">
+				АКЦІЙНА ЦІНА:
+					<div class="value">499грн</div>
+				</div>
+			</div>
+<div class="znishka">
+                    <b>Знижка діє з 10.01.2023 по  <span id="doc_time">9.05.2023 р.</span><script type="text/javascript">clock();</script></b>
+                        на даний товар інтернет-магазину, по всій території України! </div>
+			<a href="index.php#order_form" class="button">Придбати зараз</a>
+			<div class="products_count">Знижка <b> на кожний наступний </b> -50 гривень!</div>
+			<div class="additional-sale">
+            <h2 class="title"><span>Заощаджуй прямо зараз!</span></h2>
+            <p></p><center>
+                <b>2 шт </b>
+                <span>= 948 грн (економія <b>50 грн</b>)</span>
+                <b></b>
+            <p></p>
+            <p>
+                <b>3 шт </b>
+                <span>= 1476грн (економія <b>100 грн</b>)</span>
+                <b></b>
+            </p>
+            <p>
+                <b>4 шт </b>
+                <span>= 1853грн (економія <b>150 грн</b>)</span>
+                <b></b>
+            </p></center><p></p>
+
+        </div>
+        <style>.additional-sale {
+    border: 5px solid #f8e30a;
+    margin-top: 30px;
+}</style>
+			<br>
+				<h2 class="title">Зменшує втому та покращує кровообіг!</h2>
+				<p style="text-align:center;font-size:16px;padding:10px 0;"><b>Зменшіть втому, стрес, жири та целюліт за допомогою акупунктурного масажера для ніг!</b></p>
+    		<img class="image_bottom" src="images/5665.jpg" alt="">
+			<p style="text-align:center;font-size:16px;padding:10px 0;">Масажер для ніг стимулює точки акупунктури, що дає кілька переваг організму, наприклад, знімає біль, покращує кровообіг, розслабляє тощо. Вашим стопам принесе користь загальний масаж, який зменшує м’язову напругу та втому.
+			</p><p>•Зменшує м'язову напругу та деформацію</p>
+<p>•Поліпшення кровообігу</p>
+<p>•Артрит, зменшення скутості та відчуття голок</p>
+<p>•Полегшує підошовний фасціїт</p>
+<p>•Проти набряків</p>
+<p>•Полегшення варикозного розширення вен</p>
+<p>•Сприяти спалюванню жиру</p>
+		  <img class="image_bottom" src="images/footems.gif" alt="">
+			<p style="text-align:center;font-size:16px;padding:10px 0;">За допомогою імпульсної технології не тільки працює для зняття щоденного стресу, але й покращує фізичне здоров’я. Лікування діє шляхом надсилання електронних імпульсів до м’яза, який потребує лікування, що змушує м’яз пасивно виконувати вправи. Використовуючи килимок для ніг, Ваші м’язи можна підтягнути, зміцнити, одночасно зменшуючи видимість целюліту. Надання ніжкам стрункості та підтягнутості. </p>
+				<img class="image_bottom" src="images/10.jpg" alt="">
+				
+		
+		</header>
